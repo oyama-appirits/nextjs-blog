@@ -43,7 +43,7 @@ export default function Home({
           ))}
         </ul>
 
-        <Link href="404">404はこちら</Link>
+        <Link href="/404">404はこちら</Link>
       </section>
     </Layout>
   )
