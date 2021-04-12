@@ -42,6 +42,8 @@ export default function Home({
             </li>
           ))}
         </ul>
+
+        <Link href="404">404はこちら</Link>
       </section>
     </Layout>
   )
